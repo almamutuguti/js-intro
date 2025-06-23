@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "js-intro",
+  "version": "1.0.0",
+  "description": "- Variables - Store data in memory\r - Data Types\r     1. Primitive, examples: Strings, Numbers(Integers, Floats), Booleans(True and False), Null, undefined",
+  "main": "booleans.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almamutuguti/js-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/almamutuguti/js-intro/issues"
+  },
+  "homepage": "https://github.com/almamutuguti/js-intro#readme"
+}

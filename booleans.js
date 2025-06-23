@@ -15,6 +15,7 @@ console.log(5 <= 2);
 let fname;
 console.log(fname); // undefined
 
-let user = null;
+let user = null; // this is used to secure the variable so that is may not be used however you can add a value later
+user = 'Alma';
 console.log(user);
 
